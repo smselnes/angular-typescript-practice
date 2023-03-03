@@ -1,0 +1,22 @@
+{
+  "name": "angular-typescript-practice",
+  "version": "1.0.0",
+  "description": "Practice repository with my first steps into using Angular and Typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smselnes/angular-typescript-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smselnes/angular-typescript-practice/issues"
+  },
+  "homepage": "https://github.com/smselnes/angular-typescript-practice#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
